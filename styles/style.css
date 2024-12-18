@@ -250,10 +250,7 @@
     margin-top: 204px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-}
-
-.footer__menu {
-
+    margin-bottom: 82px;
 }
 
 .footer__menu-list {
